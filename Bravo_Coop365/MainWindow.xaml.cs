@@ -23,6 +23,7 @@ namespace Bravo_Coop365
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("hello world");
         }
     }
 }
