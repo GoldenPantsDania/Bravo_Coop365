@@ -31,6 +31,7 @@ namespace Bravo_Coop365
             Console.WriteLine("Poo");
             Console.WriteLine("Money");
             Console.WriteLine("Bitcoin");
+            Console.WriteLine("Steam");
         }
     }
 }
