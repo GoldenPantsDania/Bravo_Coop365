@@ -25,6 +25,7 @@ namespace Bravo_Coop365
             InitializeComponent();
             Console.WriteLine("hello world");
             Console.WriteLine("Suppe");
+            Console.WriteLine("Poo");
         }
     }
 }
