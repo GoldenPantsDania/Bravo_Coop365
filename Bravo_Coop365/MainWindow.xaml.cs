@@ -24,8 +24,10 @@ namespace Bravo_Coop365
         {
             InitializeComponent();
             Console.WriteLine("hello world");
+            Console.WriteLine("hello world3");
             Console.WriteLine("Suppe");
             Console.WriteLine("Poo");
+            Console.WriteLine("Money");
         }
     }
 }
